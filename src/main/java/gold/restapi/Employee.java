@@ -55,5 +55,4 @@ public class Employee {
     public int hashCode() {
         return Objects.hash(this.id, this.name, this.role);
     }
-
 }
